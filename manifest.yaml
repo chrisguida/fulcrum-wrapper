@@ -10,7 +10,7 @@ support-site: "https://github.com/cculianu/Fulcrum/issues"
 marketing-site: "https://github.com/cculianu/Fulcrum"
 build: ["make"]
 description:
-  short: A fast & nimble SPV Server for BCH, BTC, and LTC
+  short: A fast & nimble SPV Server for Bitcoin
   long: |
     A fast & nimble SPV server for Bitcoin and other coins.
 assets:
