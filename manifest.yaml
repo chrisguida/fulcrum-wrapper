@@ -12,7 +12,7 @@ build: ["make"]
 description:
   short: A fast & nimble SPV Server for BCH, BTC, and LTC
   long: |
-    A fast & nimble SPV server for Bitcoin Cash, Bitcoin BTC, and Litecoin.
+    A fast & nimble SPV server for Bitcoin and other coins.
 assets:
   license: LICENSE
   icon: icon.png
